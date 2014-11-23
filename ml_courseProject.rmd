@@ -349,7 +349,7 @@ dev.copy(png,'ap1.png')
 dev.off()
 ```
 
-![plot of chunk appendix1](./figures/ap1.png) 
+![plot of chunk appendix1](https://github.com/josivalmarques/datasciencecoursera/blob/master/figures/ap1.png) 
 
 **Figure 1. Accuracy of the model (rpart) for the different complexity parameters that are used during tuning**
 
