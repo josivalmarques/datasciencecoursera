@@ -360,7 +360,7 @@ dev.copy(png,'ap2.png')
 dev.off()
 ```
 
-![plot of chunk appendix2](./figures/ap2.png) 
+![plot of chunk appendix2](https://raw.githubusercontent.com/leandrowar/Machine_Learning_Project/master/figures/ap2.png) 
 
 **Figure 2. Accuracy of the model (gbm) for the two different parameters (maximum tree depth and boosting iterations) that are used during tuning**
 
@@ -371,7 +371,7 @@ dev.copy(png,'ap3.png')
 dev.off()
 ```
 
-![plot of chunk appendix3](./figures/ap3.png) 
+![plot of chunk appendix3](https://raw.githubusercontent.com/leandrowar/Machine_Learning_Project/master/figures/ap3.png) 
 
 **Figure 3. Accuracy of the model for the different parameter values (randomly selected predictors) that are used during tuning**
 
@@ -390,6 +390,6 @@ dev.off()
         
 ```
 
-![plot of chunk appendix4](./figures/ap4.png) 
+![plot of chunk appendix4](https://raw.githubusercontent.com/leandrowar/Machine_Learning_Project/master/figures/ap4.png) 
 
 **Figure 4. Pair plotting of the 4 most important variables according to the random forest model.**
